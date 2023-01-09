@@ -1,0 +1,93 @@
+#navbarMonstera {
+  display: flex;
+  justify-content: space-between;
+}
+#navMid {
+  display: inline-flex;
+  justify-content: ;
+}
+#navEnd {
+  display: inline-flex;
+}
+#navEnd img {
+  margin: 20px;
+}
+.navitems {
+  margin: 25px;
+}
+#midWhole {
+  /* width: 55vw;
+  height: 100vh;
+  float: left; */
+}
+#midWholePart1 {
+  width: 55vw;
+  height: 100vh;
+  float: left;
+}
+#midWholePart11 {
+  width: 40vw;
+  height: 30vh;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: aquamarine;
+}
+#midWholePart11 h1 {
+  font-size: 4em;
+  /* background-color: brown;
+  margin-bottom: 0vh; */
+}
+#midWholePart12 {
+  /* width: 15vw;
+  height: 10vh; */
+}
+#midWholePart121 {
+  display: inline-flex;
+  background-color: aqua;
+  width: 15vw;
+  height: 10vh;
+  margin: 10px;
+  border-radius: 25px;
+}
+#midWholePart122 {
+  background-color: aqua;
+  position: relative;
+  top: 10px;
+  bottom: 10px;
+}
+#midWholePart1 {
+}
+#midWholePart13 {
+  display: flex;
+  position: relative;
+  top: 30vh;
+  left: 5vw;
+}
+.midWholePart13Parts {
+  display: flex;
+  width: 15vw;
+  height: 2vh;
+}
+.smallIcons {
+  position: relative;
+  top: 20px;
+  margin: 10px;
+}
+#feeding {
+  margin-top: 30px;
+  margin-right: 10px;
+  width: 90px;
+  height: 90px;
+}
+#light {
+}
+#care {
+}
+.text {
+  font-size: small;
+}
+#imgMain {
+  width: 30vw;
+  height: 100vh;
+  float: right;
+}
